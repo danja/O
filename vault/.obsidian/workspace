@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Hello Obsidian!.md",
+            "file": "Notes/Exvirons.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Hello Obsidian!.md",
+                "file": "Notes/Exvirons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Hello Obsidian!.md",
+                "file": "Notes/Exvirons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Hello Obsidian!.md"
+                "file": "Notes/Exvirons.md"
               }
             }
           }
@@ -121,6 +121,9 @@
   },
   "active": "5e4e2d47d762eaea",
   "lastOpenFiles": [
+    "Notes/Exvirons.md",
+    "Notes/Ubuntu App Icon.md",
+    "Notes/Ubuntu Disable Tracker.md",
     "Notes/Hello Obsidian!.md"
   ]
 }
