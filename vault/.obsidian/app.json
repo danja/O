@@ -1,5 +1,7 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "Zettelkasten",
-  "attachmentFolderPath": "Media"
+  "attachmentFolderPath": "Media",
+  "legacyEditor": false,
+  "livePreview": true
 }
