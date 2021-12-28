@@ -9,9 +9,14 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Notes/HTTP Evolution.md",
             "mode": "source",
             "source": false
+=======
+            "file": "Notes/Environs.md",
+            "mode": "source"
+>>>>>>> 63bb7c1d1829b3bd0de9c09025cc3cc442b4e72b
           }
         }
       }
@@ -69,7 +74,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/HTTP Evolution.md",
+=======
+                "file": "Notes/Environs.md",
+>>>>>>> 63bb7c1d1829b3bd0de9c09025cc3cc442b4e72b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +95,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/HTTP Evolution.md",
+=======
+                "file": "Notes/Environs.md",
+>>>>>>> 63bb7c1d1829b3bd0de9c09025cc3cc442b4e72b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +122,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/HTTP Evolution.md"
+=======
+                "file": "Notes/Environs.md"
+>>>>>>> 63bb7c1d1829b3bd0de9c09025cc3cc442b4e72b
               }
             }
           }
@@ -122,11 +139,15 @@
   },
   "active": "5e4e2d47d762eaea",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Notes/HTTP Evolution.md",
     "Notes/Videos.md",
     "Notes/Exvirons.md",
     "Notes/Hello Obsidian!.md",
     "Overview.md",
+=======
+    "Notes/Environs.md",
+>>>>>>> 63bb7c1d1829b3bd0de9c09025cc3cc442b4e72b
     "Notes/Ubuntu App Icon.md",
     "Notes/Ubuntu Disable Tracker.md"
   ]
