@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SynthNG/KiCad.md",
+            "file": "SynthNG/Plan.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SynthNG/KiCad.md",
+                "file": "SynthNG/Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SynthNG/KiCad.md",
+                "file": "SynthNG/Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SynthNG/KiCad.md"
+                "file": "SynthNG/Plan.md"
               }
             }
           }
@@ -122,6 +122,8 @@
   },
   "active": "a9a786a80b1a1181",
   "lastOpenFiles": [
+    "SynthNG/Plan.md",
+    "Notes/Dot.md",
     "SynthNG/KiCad.md",
     "SynthNG/Eurorack.md",
     "SynthNG/Hardware.md",
