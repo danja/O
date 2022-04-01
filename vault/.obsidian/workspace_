@@ -1,15 +1,27 @@
 {
   "main": {
+<<<<<<< HEAD
+    "id": "26e8224c61f8861e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9346e57b7419c25",
+=======
     "id": "bc464e0fa165eb63",
     "type": "split",
     "children": [
       {
         "id": "c0be6a75e99e02c8",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Synth Ideas.md",
+<<<<<<< HEAD
+            "file": "Videos/Channel Intro.md",
+=======
+            "file": "Notes/Machine Admin.md",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
             "mode": "source",
             "source": false
           }
@@ -19,6 +31,17 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
+    "id": "370b59a589194b34",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed3a69b53545965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "060b90b0a7418e03",
+=======
     "id": "3e7d1280569deb27",
     "type": "split",
     "children": [
@@ -28,6 +51,7 @@
         "children": [
           {
             "id": "048bd4b1c5e62407",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +59,11 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "e6a83f26f3cd3405",
+=======
             "id": "30855e6ec506bd02",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,6 +84,17 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
+    "id": "f7127d540a1ab4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "97f57a72dff20633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "586b2c9d87482911",
+=======
     "id": "7e5231d144e52b5c",
     "type": "split",
     "children": [
@@ -65,11 +104,16 @@
         "children": [
           {
             "id": "6ac9091c801ff71f",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Synth Ideas.md",
+<<<<<<< HEAD
+                "file": "Videos/Channel Intro.md",
+=======
+                "file": "Notes/Machine Admin.md",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,19 +125,31 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "261512fff2baa6eb",
+=======
             "id": "e68b9866825a3e44",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Synth Ideas.md",
+<<<<<<< HEAD
+                "file": "Videos/Channel Intro.md",
+=======
+                "file": "Notes/Machine Admin.md",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
+            "id": "63dd64304dee0d85",
+=======
             "id": "86255fdf950ab8e9",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -104,12 +160,20 @@
             }
           },
           {
+<<<<<<< HEAD
+            "id": "bbc2a284ab81b8e0",
+=======
             "id": "dcc61306d3df76b3",
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Synth Ideas.md"
+<<<<<<< HEAD
+                "file": "Videos/Channel Intro.md"
+=======
+                "file": "Notes/Machine Admin.md"
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
               }
             }
           }
@@ -120,10 +184,17 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
+  "active": "d9346e57b7419c25",
+  "lastOpenFiles": [
+    "Videos/Channel Intro.md",
+    "Videos/_Index.md",
+    "Videos/HTTP Evolution.md"
+=======
   "active": "c0be6a75e99e02c8",
   "lastOpenFiles": [
-    "Notes/Synth Ideas.md",
     "Notes/Machine Admin.md",
     "Notes/Current.md"
+>>>>>>> 4b0fefb0be954b294f75d8ecdfc89166d89b1aab
   ]
 }
