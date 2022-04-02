@@ -1,5 +1,9 @@
+**Mouser**
 Power connectors
+LM2917
+PLL
 
+**Amazon**
 2mm aluminium
 
 Plectrums!!

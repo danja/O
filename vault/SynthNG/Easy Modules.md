@@ -6,21 +6,29 @@ the CGS circuit uses fixed x20, /20
 
 I'm thinking -
 
-#### Attenuator
+__Attenuator__
 1/4" jack in
 Pot
 3.5mm jack out
 
-#### Amplifier
+__Amplifier__
 3.5mm jack
 switchable fixed x10
 pot
 variable x10
 1/4" jack
 
-#### PSU
+__PSU__
 9v
 
+### Envelope Follower
+envelope
+invert 
+trigger
 
+gain
+freq to env
+curve exp
 
+PLL
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SynthNG/KiCad.md",
+            "file": "SynthNG/Ideas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SynthNG/KiCad.md",
+                "file": "SynthNG/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SynthNG/KiCad.md",
+                "file": "SynthNG/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SynthNG/KiCad.md"
+                "file": "SynthNG/Ideas.md"
               }
             }
           }
@@ -122,12 +122,14 @@
   },
   "active": "a9a786a80b1a1181",
   "lastOpenFiles": [
+    "SynthNG/Ideas.md",
+    "Videos/HTTP Evolution.md",
+    "Videos/_Index.md",
+    "SynthNG/Easy Modules.md",
+    "SynthNG/ToBuy.md",
     "SynthNG/KiCad.md",
     "SynthNG/Eurorack.md",
     "SynthNG/Hardware.md",
-    "SynthNG/Easy Modules.md",
-    "SynthNG/Ideas.md",
-    "SynthNG/ToBuy.md",
     "SynthNG/Board D.md",
     "Notes/Synth Ideas.md"
   ]
