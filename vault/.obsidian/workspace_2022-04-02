@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "SynthNG/Ideas.md",
+=======
+            "file": "SynthNG/Plan.md",
+>>>>>>> 07fd9b0c22f66f1b7c4c236e3d9be091b19c11e9
             "mode": "source",
             "source": false
           }
@@ -69,7 +73,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "SynthNG/Ideas.md",
+=======
+                "file": "SynthNG/Plan.md",
+>>>>>>> 07fd9b0c22f66f1b7c4c236e3d9be091b19c11e9
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +94,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "SynthNG/Ideas.md",
+=======
+                "file": "SynthNG/Plan.md",
+>>>>>>> 07fd9b0c22f66f1b7c4c236e3d9be091b19c11e9
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +121,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "SynthNG/Ideas.md"
+=======
+                "file": "SynthNG/Plan.md"
+>>>>>>> 07fd9b0c22f66f1b7c4c236e3d9be091b19c11e9
               }
             }
           }
@@ -122,11 +138,16 @@
   },
   "active": "a9a786a80b1a1181",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "SynthNG/Ideas.md",
     "Videos/HTTP Evolution.md",
     "Videos/_Index.md",
     "SynthNG/Easy Modules.md",
     "SynthNG/ToBuy.md",
+=======
+    "SynthNG/Plan.md",
+    "Notes/Dot.md",
+>>>>>>> 07fd9b0c22f66f1b7c4c236e3d9be091b19c11e9
     "SynthNG/KiCad.md",
     "SynthNG/Eurorack.md",
     "SynthNG/Hardware.md",
