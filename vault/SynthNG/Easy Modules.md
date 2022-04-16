@@ -21,6 +21,11 @@ variable x10
 __PSU__
 9v
 
+## Voltage Controlled Motor!
+Real motor. Some kind of control voltage in (driver + Arduino?) + trigger/gate??
+amp/limiter to manage output
+
+
 ### Envelope Follower
 envelope
 invert 

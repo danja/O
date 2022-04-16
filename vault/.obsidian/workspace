@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SynthNG/ToBuy.md",
+            "file": "SynthNG/Easy Modules.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SynthNG/ToBuy.md",
+                "file": "SynthNG/Easy Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SynthNG/ToBuy.md",
+                "file": "SynthNG/Easy Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SynthNG/ToBuy.md"
+                "file": "SynthNG/Easy Modules.md"
               }
             }
           }
@@ -122,9 +122,9 @@
   },
   "active": "a7815e404df274ff",
   "lastOpenFiles": [
+    "SynthNG/Easy Modules.md",
     "SynthNG/ToBuy.md",
     "SynthNG/Hardware.md",
-    "SynthNG/Easy Modules.md",
     "SynthNG/Eurorack.md",
     "Notes/Hello Obsidian!.md",
     "SynthNG/TODO.md"
