@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md",
+            "file": "Music/Preferred Software.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md",
+                "file": "Music/Preferred Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md",
+                "file": "Music/Preferred Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md"
+                "file": "Music/Preferred Software.md"
               }
             }
           }
@@ -122,6 +122,8 @@
   },
   "active": "a7815e404df274ff",
   "lastOpenFiles": [
+    "Music/Preferred Software.md",
+    "Music/Mastering.md",
     "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md",
     "Projects/Electronics/Test Gear/Signal Generator.md",
     "SynthNG/Easy Modules.md",
