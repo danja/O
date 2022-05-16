@@ -2,6 +2,8 @@ https://sdiy.info/wiki/Eurorack
 
 https://syntherjack.net/eurorack-module-diy-tutorial-1-drilling/
 
+The width of Eurorack modules is typically measured in "HP" (or "TE"); 1 TE/HP is equivalent to 5.08mm, or 1/5". So a 24 TE/HP width is 24/5, or 4.8". In millimeters, it becomes 24 x 5.08, or 122 mm.
+
 ----
 ### Power Connectors
 
@@ -12,6 +14,7 @@ https://syntherjack.net/eurorack-module-diy-tutorial-1-drilling/
 
 ----
 ### Behringer 150
+https://www.behringer.com/product.html?modelCode=P0DW7
 
 -   Analogue ring modulator
 -   Noise generator with two outputs for white noise and pink noise
@@ -23,6 +26,7 @@ https://syntherjack.net/eurorack-module-diy-tutorial-1-drilling/
 -   Current consumption: 60mA (+12V) / 50mA (-12V)
 -   Width: 16 HP
 -   Depth: 44 mm
+
 
 128x80mm, measured ~ 35 deep
 
