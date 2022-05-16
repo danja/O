@@ -1,3 +1,13 @@
+1. Listen to real sound
+2. Listen to target sound
+3. Find previous work (RTFM)
+4. Approximate topology
+5. Approximate by ear
+6. Compare in time domain
+7. Compare in freq domain
+
+
+
 https://www.soundonsound.com/synthesizers/synth-secrets
 
 ### Snare

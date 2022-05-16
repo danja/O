@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Videos/TR-808 on Wasp.md",
+            "file": "SynthNG/Moods.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Videos/TR-808 on Wasp.md",
+                "file": "SynthNG/Moods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Videos/TR-808 on Wasp.md",
+                "file": "SynthNG/Moods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Videos/TR-808 on Wasp.md"
+                "file": "SynthNG/Moods.md"
               }
             }
           }
@@ -122,15 +122,15 @@
   },
   "active": "a7815e404df274ff",
   "lastOpenFiles": [
+    "SynthNG/Moods.md",
+    "SynthNG/Board D.md",
+    "SynthNG/ToBuy.md",
     "Videos/TR-808 on Wasp.md",
     "SynthNG/Eurorack.md",
     "SynthNG/Signal Amplifier-Attenuator.md",
     "SynthNG/Easy Modules.md",
     "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md",
     "Projects/Electronics/Test Gear/Signal Generator.md",
-    "SynthNG/ToBuy.md",
-    "SynthNG/Hardware.md",
-    "Notes/Hello Obsidian!.md",
-    "SynthNG/TODO.md"
+    "SynthNG/Hardware.md"
   ]
 }
