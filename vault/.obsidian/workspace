@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SynthNG/Moods.md",
+            "file": "Notes/Octaves Vowels.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SynthNG/Moods.md",
+                "file": "Notes/Octaves Vowels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SynthNG/Moods.md",
+                "file": "Notes/Octaves Vowels.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SynthNG/Moods.md"
+                "file": "Notes/Octaves Vowels.md"
               }
             }
           }
@@ -122,6 +122,8 @@
   },
   "active": "a7815e404df274ff",
   "lastOpenFiles": [
+    "Notes/Octaves Vowels.md",
+    "Notes/RTL Wifi Driver.md",
     "SynthNG/Moods.md",
     "SynthNG/Board D.md",
     "SynthNG/ToBuy.md",
@@ -129,8 +131,6 @@
     "SynthNG/Eurorack.md",
     "SynthNG/Signal Amplifier-Attenuator.md",
     "SynthNG/Easy Modules.md",
-    "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md",
-    "Projects/Electronics/Test Gear/Signal Generator.md",
-    "SynthNG/Hardware.md"
+    "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md"
   ]
 }
