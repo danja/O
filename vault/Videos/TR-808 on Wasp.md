@@ -1,3 +1,5 @@
+Why Wasp? Price. The other Behringer..?
+
 1. Listen to real sound
 2. Listen to target sound
 3. Find previous work (RTFM)

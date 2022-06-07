@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a7815e404df274ff",
+        "id": "75a54230f85c5cc7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Music/Bits.md",
+            "file": "Music/5S.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music/Bits.md",
+                "file": "Music/5S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Bits.md",
+                "file": "Music/5S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music/Bits.md"
+                "file": "Music/5S.md"
               }
             }
           }
@@ -120,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a7815e404df274ff",
+  "active": "75a54230f85c5cc7",
   "lastOpenFiles": [
+    "Music/5S.md",
     "Music/Bits.md",
-    "Daily/2022-06-04.md",
-    "Notes/Octaves Vowels.md",
-    "Notes/RTL Wifi Driver.md",
-    "SynthNG/Moods.md",
-    "SynthNG/Board D.md",
-    "SynthNG/ToBuy.md",
+    "Daily/2022-05-23.md",
+    "Videos/Clarinet Mic.md",
+    "Daily/2022-05-22.md",
+    "Daily/Rules.md",
+    "Daily/2022-05-17.md",
+    "Daily/2022-05-19.md",
     "Videos/TR-808 on Wasp.md",
-    "SynthNG/Eurorack.md",
-    "SynthNG/Signal Amplifier-Attenuator.md"
+    "SynthNG/ToBuy.md"
   ]
 }
