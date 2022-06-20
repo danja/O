@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "f4d0922616776dd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd22cf8368c1db05",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Music/Preferred Software.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "341279700f78a213",
+    "type": "split",
+    "children": [
+      {
+        "id": "f628b42d688be7b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a624d3032ca466db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72ded4f0c233084b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6694ec62d39e2433",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb8105a925f28a2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bccba642f00fa89f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Music/Preferred Software.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d85ae8528eb252af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Music/Preferred Software.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "381cf34b39400bce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78cf7dac864e6638",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Music/Preferred Software.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bd22cf8368c1db05",
+  "lastOpenFiles": [
+    "Music/Preferred Software.md"
+  ]
+}

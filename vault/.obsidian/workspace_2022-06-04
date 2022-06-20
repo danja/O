@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "53e5c04b9bb7c1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "75a54230f85c5cc7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Music/5S.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7932bf7c445a74ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa79474311e8836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "788112e1a93a2180",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "94a663448fd0b035",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a31de3edab21ea8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c08e37fdb2771e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e26655896d17e1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Music/5S.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21196b94eb961a7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Music/5S.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5576f07fa4f92228",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0190757bcdcc67fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Music/5S.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "75a54230f85c5cc7",
+  "lastOpenFiles": [
+    "Music/5S.md",
+    "Music/Bits.md",
+    "Daily/2022-05-23.md",
+    "Videos/Clarinet Mic.md",
+    "Daily/2022-05-22.md",
+    "Daily/Rules.md",
+    "Daily/2022-05-17.md",
+    "Daily/2022-05-19.md",
+    "Videos/TR-808 on Wasp.md",
+    "SynthNG/ToBuy.md"
+  ]
+}

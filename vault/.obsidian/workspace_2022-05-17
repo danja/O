@@ -9,11 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Music/Preferred Software.md",
-=======
-            "file": "Notes/Octaves Vowels.md",
->>>>>>> 07afc0e81fad6d8641af799e9dfb2b87acb37a4e
+            "file": "Daily/2022-05-17.md",
             "mode": "source",
             "source": false
           }
@@ -73,11 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Music/Preferred Software.md",
-=======
-                "file": "Notes/Octaves Vowels.md",
->>>>>>> 07afc0e81fad6d8641af799e9dfb2b87acb37a4e
+                "file": "Daily/2022-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,11 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Music/Preferred Software.md",
-=======
-                "file": "Notes/Octaves Vowels.md",
->>>>>>> 07afc0e81fad6d8641af799e9dfb2b87acb37a4e
+                "file": "Daily/2022-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Music/Preferred Software.md"
-=======
-                "file": "Notes/Octaves Vowels.md"
->>>>>>> 07afc0e81fad6d8641af799e9dfb2b87acb37a4e
+                "file": "Daily/2022-05-17.md"
               }
             }
           }
@@ -138,23 +122,14 @@
   },
   "active": "a7815e404df274ff",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Music/Preferred Software.md",
-    "Music/Mastering.md",
+    "Daily/2022-05-17.md",
+    "SynthNG/ToBuy.md",
     "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md",
     "Projects/Electronics/Test Gear/Signal Generator.md",
     "SynthNG/Easy Modules.md",
-=======
-    "Notes/Octaves Vowels.md",
-    "Notes/RTL Wifi Driver.md",
-    "SynthNG/Moods.md",
-    "SynthNG/Board D.md",
->>>>>>> 07afc0e81fad6d8641af799e9dfb2b87acb37a4e
-    "SynthNG/ToBuy.md",
-    "Videos/TR-808 on Wasp.md",
+    "SynthNG/Hardware.md",
     "SynthNG/Eurorack.md",
-    "SynthNG/Signal Amplifier-Attenuator.md",
-    "SynthNG/Easy Modules.md",
-    "Projects/Coding/HKMS/Project Management/Obsidian Adapter.md"
+    "Notes/Hello Obsidian!.md",
+    "SynthNG/TODO.md"
   ]
 }
