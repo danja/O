@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "spacy/Strategies.md",
+            "file": "Videos/Dreamachine Build.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spacy/Strategies.md",
+                "file": "Videos/Dreamachine Build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spacy/Strategies.md",
+                "file": "Videos/Dreamachine Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spacy/Strategies.md"
+                "file": "Videos/Dreamachine Build.md"
               }
             }
           }
@@ -122,6 +122,7 @@
   },
   "active": "bd22cf8368c1db05",
   "lastOpenFiles": [
+    "spacy/spaCy Notes.md",
     "Music/Preferred Software.md"
   ]
 }
